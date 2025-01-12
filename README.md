@@ -5,3 +5,5 @@ This is just a repository as I start my journey in Javascript
 #bookssystem is the addition of data, just like making a book database.
 
 #followers count is a accumulation of followers using the ++principle
+
+employee details is a sum of function aquiring data from arrays, such as select, find ...
