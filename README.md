@@ -13,3 +13,5 @@ This is just a repository as I start my journey in Javascript
 #employee details is a sum of function aquiring data from arrays, such as select, find ...
 
 #Control Flow is work on the accesibnility level of users..
+
+#restaurant menu is something that resembles a menu in arestaurant.
