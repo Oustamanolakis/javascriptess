@@ -15,3 +15,5 @@ This is just a repository as I start my journey in Javascript
 #Control Flow is work on the accesibnility level of users..
 
 #restaurant menu is something that resembles a menu in arestaurant.
+
+#speed analysis is just a test measuring type speed. 
