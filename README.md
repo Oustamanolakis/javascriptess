@@ -17,3 +17,5 @@ This is just a repository as I start my journey in Javascript
 #restaurant menu is something that resembles a menu in arestaurant.
 
 #speed analysis is just a test measuring type speed. 
+
+#todoList is just very simple todo list
