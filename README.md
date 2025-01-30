@@ -19,3 +19,5 @@ This is just a repository as I start my journey in Javascript
 #speed analysis is just a test measuring type speed. 
 
 #todoList is just very simple todo list
+
+#ColorfulMemoryGame is matching Game. similar to memory. 
